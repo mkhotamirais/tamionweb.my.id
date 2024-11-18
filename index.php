@@ -16,8 +16,10 @@
 <body>
     <h1>Tamionweb</h1>
     <nav>
-        <a href="/php-basic">php basic</a>
-        <a href="/coba">coba</a>
+        <a href="php-basic">php-basic</a>
+        <a href="coba">coba</a>
+        <a href="php-wpu-db">homepage/php-wpu-db</a>
+        <a href="coba-db">coba db</a>
     </nav>
 </body>
 
