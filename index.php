@@ -17,6 +17,7 @@
     <h1>Tamionweb</h1>
     <nav>
         <a href="/php-basic">php basic</a>
+        <a href="/coba">coba</a>
     </nav>
 </body>
 
